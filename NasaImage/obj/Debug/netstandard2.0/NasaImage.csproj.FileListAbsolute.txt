@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\bin\Debug\netstandard2.0\NasaImage.deps.json
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\bin\Debug\netstandard2.0\NasaImage.dll
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\obj\Debug\netstandard2.0\NasaImage.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\obj\Debug\netstandard2.0\NasaImage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\obj\Debug\netstandard2.0\NasaImage.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\obj\Debug\netstandard2.0\NasaImage.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\bin\Debug\netstandard2.0\NasaImage.pdb
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\obj\Debug\netstandard2.0\NasaImage.dll
+C:\Users\ASUS\source\repos\NasaImage\NasaImage\obj\Debug\netstandard2.0\NasaImage.pdb
